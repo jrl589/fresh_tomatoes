@@ -8,7 +8,7 @@ fresh_tomatoes is a simple python program that creates an html page displaying h
 
 ## Getting Started
 
-- [Download the program](https://github.com/jrl589/fresh_tomatoes/archive/master.zip).
+- [Download the source](https://github.com/jrl589/fresh_tomatoes/archive/master.zip).
 - Unzip the downloaded file into desired directory.
 - cd into the extracted directory.
 - Run entertainment_center.py (python entertainment_center.py)
