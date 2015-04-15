@@ -16,6 +16,6 @@ fresh_tomatoes is a simple python program that creates an html page displaying h
 
 ## Navigating the website
 
-- Click a title to view the movies description
+- Click a title to view the movies' description
 - Click on a poster image to view the trailer in a modal
 
