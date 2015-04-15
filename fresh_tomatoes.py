@@ -37,12 +37,16 @@ main_page_head = '''
             padding-top: 20px;
         }
         .movie-poster {
+            -moz-filter: brightness(0.3);
+            -ms-filter: brightness(0.3);
             -webkit-filter: brightness(0.3);
             filter: brightness(0.3);
             border:2px solid black;
         }
         .movie-poster:hover {
             cursor:pointer;
+            -moz-filter: brightness(1);
+            -ms-filter: brightness(1);
             -webkit-filter: brightness(1);
             filter: brightness(1);
         }
