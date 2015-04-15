@@ -1,4 +1,5 @@
-import webbrowser as browser
+#Movie class used to store title, description poster and trailer information for
+#a movie.
 
 class Movie ( ) :
 	def __init__ ( self , title , desc , poster , trailer ) :
